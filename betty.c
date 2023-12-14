@@ -8,12 +8,7 @@
 
 int main(void)
 {
-	int i;
-
-	for (i = 0; < 10; i++)
-	{
-		printf("Hello, Betty!\n");
-	}
+	printf("Hello, Betty!\n");
 
 	return (0);
 }
